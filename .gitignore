@@ -1,0 +1,44 @@
+# ================================
+# OS-specific system files
+# ================================
+.DS_Store
+Thumbs.db
+.Trash-*
+ehthumbs.db
+desktop.ini
+
+# ================================
+# Editor/IDE temporary files
+# ================================
+*.swp
+*.swo
+*.bak
+*.tmp
+*.~ 
+*~
+
+# VS Code project settings
+.vscode/
+
+# ================================
+# Output or runtime files
+# ================================
+*.log
+*.out
+*.aux
+*.pid
+
+# Optional: generated HTML output
+output_*.html
+
+# Optional: backup or archive files
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.rar
+
+# Optional: system command history or shell session cache
+.history
+.bash_history
+.cache/
